@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Started off in the realm of data engineering but as of late I'm veering more and more into full-stack. As a hobby I also do mobile and game dev.<br>Professionally I'm now involved in the development of the first Italian all-in-one solution for restaurants together with the amazing guys at [Easylivery](https://www.easylivery.it/)</p>
+<p align="left">Started off in the realm of data engineering but as of late I'm veering more and more into full-stack. As a hobby I also do mobile and game dev.<br>Professionally I'm now involved in the development of the first Italian all-in-one solution for restaurants together with the amazing guys at <a href="https://www.easylivery.it/">Easylivery</a> </p>
 
 ###
 
