@@ -8,7 +8,9 @@
 
 ###
 
-<p align="left">Started off in the realm of data engineering while I was pursuing my MSc in Data Science, as of late however I'm veering more and more into full-stack. As a hobby I also do mobile and game dev.<br>Professionally I'm now involved in the development of the first Italian all-in-one solution for restaurants together with the amazing guys at <a href="https://www.easylivery.it/">Easylivery</a> </p>
+<p align="left">Ciao 👋 ! I'm Leo, backend developer by day, compulsive tinkerer by night. I started my journey into the wonderful world of software development working as a data engineer while I was pursuing my MSc in Data Science, and ever since then I've never stopped growing and learning as a developer. After having met some really amazing people and companies, last May I joined the backend team at <a href="https://www.subbyx.com/">Subbyx</a> to revolutionise how people make use of and enjoy digital consumer products. In my spare time, when I'm not tinkering away at some side project or crazy software idea, I cultivate many hobbies to keep myself creative and in shape, such as writing fiction, cooking, studying Mandarin and going to the gym. On this profile you'll find a bit of everything, full stack apps, small POCs, frameworks and challenges. I have a great liking for "Build your own [X]" challenges, so expect to see a bunch of those over here, I love building things from scratch and learning how they work under the hood while doing it.
+
+Buona permanenza! _(that's "Enjoy your stay" in Italian)_
 
 ###
 
@@ -20,6 +22,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
