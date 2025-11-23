@@ -8,11 +8,20 @@
 
 ###
 
-<p align="left">Ciao 👋 !
-  
-I'm Leo, backend developer by day, compulsive tinkerer by night. I started my journey into the wonderful world of software development working as a data engineer while I was pursuing my MSc in Data Science, and ever since then I've never stopped growing and learning as a developer. After having met some really amazing people and companies, last May I joined the backend team at <a href="https://www.subbyx.com/">Subbyx</a> to revolutionise how people make use of and enjoy digital consumer products. In my spare time, when I'm not tinkering away at some side project or crazy software idea, I cultivate many hobbies to keep myself creative and in shape, such as writing fiction, cooking, studying Mandarin and going to the gym. On this profile you'll find a bit of everything, full stack apps, small POCs, frameworks and challenges. I have a great liking for "Build your own [X]" challenges, so expect to see a bunch of those over here, I love building things from scratch and learning how they work under the hood while doing it.
+Ciao 👋 !
+
+I'm Leo, a backend developer by day and compulsive tinkerer by night. I started my journey into the wonderful world of software development as a data engineer while pursuing my MSc in Data Science, and I've never stopped growing and learning since.
+After three years working across companies big and small across Europe, I decided to embark on an adventure and move to China to take part in the development of the AirVisual mobile app and data platform as a backend engineer, providing millions of users worldwide with up-to-date information about the air quality in their community.
+When I'm not tinkering with side projects or crazy software ideas, I cultivate various hobbies to stay creative and in shape—writing fiction, cooking, studying Mandarin, and hitting the gym.
+
+On this profile, you'll find everything from full-stack apps and small POCs to frameworks and coding challenges. I have a particular fondness for "Build your own [X]" challenges, so expect to see plenty of those here. I love building things from scratch and understanding how they work under the hood.
 
 Buona permanenza! _(that's "Enjoy your stay" in Italian)_
+
+
+Current Focus:
+
+🔭 Working on iedit - a neat little text editor built in Rust for Linux and Mac OS.
 
 ###
 
